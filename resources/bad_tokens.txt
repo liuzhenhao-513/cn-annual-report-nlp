@@ -1,0 +1,51 @@
+# Tokens removed with jieba.del_word() before segmentation/training.
+扣除非
+延税
+因税会
+税会
+会税
+表日
+字化
+智化
+应链
+事会
+进延
+递廷
+运延
+通延
+徇税
+延所
+出为
+入为
+入小计
+出小计
+出比
+出量
+出较
+入较
+入量
+风陌
+风验
+风陉
+风陂
+性风
+审讧
+流劢
+润为
+掉销
+非后
+益后
+# badtoken_round1: fragments/OCR/table-glue confirmed 2026-06-05
+益性
+常性
+非经
+执字
+制为
+零零
+方为
+限为
+且为
+# badtoken_round2: 公积金 fragment 2026-06-05
+积金
+# badtoken_round5: "规模较大/较小" 粘连 2026-06-05
+规模较

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行时生成
+state/
+uploads/
+output/
+
+# 年报文本（自备，不随仓库提供）
+data/*
+!data/README.md
+
+# 模型文件（在 GitHub Releases 提供下载）
+models/*
+!models/README.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini

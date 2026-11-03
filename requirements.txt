@@ -1,0 +1,5 @@
+jieba
+gensim>=4.4
+pandas
+openpyxl
+streamlit

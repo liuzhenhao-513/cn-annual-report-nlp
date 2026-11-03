@@ -1,0 +1,13 @@
+[server]
+# 只在本机访问，不对局域网开放
+address = "localhost"
+port = 8501
+headless = false
+maxUploadSize = 2048
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#3b82f6"
